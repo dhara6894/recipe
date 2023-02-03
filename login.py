@@ -1,1 +1,1 @@
-print("POST: login api added")
+print("GET: login api added")
